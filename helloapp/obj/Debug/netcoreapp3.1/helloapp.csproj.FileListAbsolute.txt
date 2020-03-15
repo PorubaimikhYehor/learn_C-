@@ -1,0 +1,11 @@
+/home/yehor/backEnd/helloapp/bin/Debug/netcoreapp3.1/helloapp
+/home/yehor/backEnd/helloapp/bin/Debug/netcoreapp3.1/helloapp.deps.json
+/home/yehor/backEnd/helloapp/bin/Debug/netcoreapp3.1/helloapp.runtimeconfig.json
+/home/yehor/backEnd/helloapp/bin/Debug/netcoreapp3.1/helloapp.runtimeconfig.dev.json
+/home/yehor/backEnd/helloapp/bin/Debug/netcoreapp3.1/helloapp.dll
+/home/yehor/backEnd/helloapp/bin/Debug/netcoreapp3.1/helloapp.pdb
+/home/yehor/backEnd/helloapp/obj/Debug/netcoreapp3.1/helloapp.csprojAssemblyReference.cache
+/home/yehor/backEnd/helloapp/obj/Debug/netcoreapp3.1/helloapp.AssemblyInfoInputs.cache
+/home/yehor/backEnd/helloapp/obj/Debug/netcoreapp3.1/helloapp.AssemblyInfo.cs
+/home/yehor/backEnd/helloapp/obj/Debug/netcoreapp3.1/helloapp.dll
+/home/yehor/backEnd/helloapp/obj/Debug/netcoreapp3.1/helloapp.pdb
